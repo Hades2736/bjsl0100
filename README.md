@@ -3,7 +3,7 @@
 
 Welcome to the course onboarding page for BJSL0100.  
   
-欢迎访问 BJSL0110 的课程主页。  
+欢迎访问 BJSL0100 的课程主页。  
   
 Copies of documents, resources, assignment requirements related to the course and your grade sheets will be kept here. Hope all the students enrolled in this course will have a pleasant learning experience and ultimately get good grades.  
   
