@@ -1,5 +1,6 @@
-# BJSL0110
-## Specialty Reading & Writing&nbsp;&nbsp;专业阅读与写作
+<p align="center"><img src="Images/I0%20-%20SEU%20Mark.png" width="300"></p>  
+<h1 align="center">Specialty Reading & Writing&nbsp;&nbsp;专业阅读与写作&nbsp;&nbsp;(BJSL0110)</h1>  
+
 Welcome to the course onboarding page for BJSL0110.  
   
 欢迎访问 BJSL0110 的课程主页。  
@@ -12,7 +13,10 @@ In this course, you will learn various methods of reading professional literatur
   
 在本课程中，你将学习各种阅读专业文献、科研论文及报告的方法，并有机会亲身参与其中。你将学习使用 Git、LaTeX 等基本而重要的技能，并向科研一线教师了解专业领域的前沿研究方向。  
 ## 📄&nbsp;&nbsp;&nbsp;Documents&nbsp;&nbsp;文稿
-
 | Index<br>索引 | Title<br>标题 | File Viewer<br>文件查看器 | Raw File<br>原始文件 |
 | - | - | -| - |
-| S1 | Course Schedule & Outline<br>课程规划及纲要 | [Open](Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) | [Download](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) |
+| S1 | Course Schedule & Outline<br>课程规划及纲要 | [Open / 打开](Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) |
+## 🔗&nbsp;&nbsp;&nbsp;Resources&nbsp;&nbsp;资源
+- [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
+- [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
+- [Learn Git Branching / 学习 Git 分支技术](https://learngitbranching.js.org/?locale=zh_CN)
