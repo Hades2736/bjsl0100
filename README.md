@@ -1,7 +1,7 @@
 <p align="center"><img src="Images/I0%20-%20SEU%20Mark.png" width="300"></p>  
-<h1 align="center">Specialty Reading & Writing&nbsp;&nbsp;专业阅读与写作&nbsp;&nbsp;(BJSL0110)</h1>  
+<h1 align="center">Specialty Reading & Writing&nbsp;&nbsp;专业阅读与写作&nbsp;&nbsp;(BJSL0100)</h1>  
 
-Welcome to the course onboarding page for BJSL0110.  
+Welcome to the course onboarding page for BJSL0100.  
   
 欢迎访问 BJSL0110 的课程主页。  
   
