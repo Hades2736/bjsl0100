@@ -16,6 +16,11 @@ In this course, you will learn various methods of reading professional literatur
 | Index<br>索引 | Title<br>标题 | File Viewer<br>文件查看器 | Raw File<br>原始文件 |
 | - | - | -| - |
 | S1 | Course Schedule & Outline<br>课程规划及纲要 | [Open / 打开](Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) |
+| S2 | Assignment Submission Guidelines<br>作业提交指引 | [Open / 打开](Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) |
+
+Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
+
+请留意由于网页浏览器渲染引擎不尽相同，文件查看器可能无法正确载入文件。此时请下载相应文件以供查阅。
 ## 🔗&nbsp;&nbsp;&nbsp;Resources&nbsp;&nbsp;资源
 - [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
 - [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
