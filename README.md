@@ -17,6 +17,16 @@ In this course, you will learn various methods of reading professional literatur
 | - | - | -| - |
 | S1 | Course Schedule & Outline<br>课程规划及纲要 | [Open / 打开](Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S1%20-%20Course%20Schedule%20&%20Outline.pdf) |
 | S2 | Assignment Submission Guidelines<br>作业提交指引 | [Open / 打开](Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) |
+| K1 | Course Preface & Introduction<br>课程概要 (演示文稿) | [Open / 打开](Documents/K1%20-%20Course%20Preface%20&%20Introduction.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K1%20-%20Course%20Preface%20&%20Introduction.pdf) |
+| K2 | Introduction<br>简介 (演示文稿) | [Open / 打开](Documents/K2%20-%20Introduction.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K2%20-%20Introduction.pdf) |
+
+Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
+
+请留意由于网页浏览器渲染引擎不尽相同，文件查看器可能无法正确载入文件。此时请下载相应文件以供查阅。
+## ✏️&nbsp;&nbsp;&nbsp;Assignments&nbsp;&nbsp;作业
+| Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 | 
+| - | - | - | - | - | 
+| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/LIElckVI/RvS3X0RmL82Z9A) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
