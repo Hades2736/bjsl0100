@@ -19,6 +19,8 @@ In this course, you will learn various methods of reading professional literatur
 | S2 | Assignment Submission Guidelines<br>作业提交指引 | [Open / 打开](Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/S2%20-%20Assignment%20Submission%20Guidelines.pdf) |
 | K1 | Course Preface & Introduction<br>课程概要 (演示文稿) | [Open / 打开](Documents/K1%20-%20Course%20Preface%20&%20Introduction.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K1%20-%20Course%20Preface%20&%20Introduction.pdf) |
 | K2 | Introduction<br>简介 (演示文稿) | [Open / 打开](Documents/K2%20-%20Introduction.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K2%20-%20Introduction.pdf) |
+| R1 | Report from *Qianru Nan* (Desensitized)<br>报告 – 南芊如 (经脱敏的演示文稿) | [Open / 打开](Documents/R1%20-%20Qianru%20Nan.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R1%20-%20Qianru%20Nan.pdf) |
+| R2 | Report from *Zichao Chen* (Desensitized)<br>报告 – 陈梓超 (经脱敏的演示文稿) | [Open / 打开](Documents/R2%20-%20Zichao%20Chen.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R2%20-%20Zichao%20Chen.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
