@@ -24,9 +24,9 @@ Please note that due to different web browser rendering engines, the file viewer
 
 请留意由于网页浏览器渲染引擎不尽相同，文件查看器可能无法正确载入文件。此时请下载相应文件以供查阅。
 ## ✏️&nbsp;&nbsp;&nbsp;Assignments&nbsp;&nbsp;作业
-| Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 | 
-| - | - | - | - | - | 
-| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/LIElckVI/RvS3X0RmL82Z9A) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.html) |
+| Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 | Grade Distribution<br>成绩分布 |
+| - | - | - | - | - | - |
+| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/LIElckVI/RvS3X0RmL82Z9A) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) | Not published / 暂未公布 |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
