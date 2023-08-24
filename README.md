@@ -21,14 +21,16 @@ In this course, you will learn various methods of reading professional literatur
 | K2 | Introduction<br>简介 (演示文稿) | [Open / 打开](Documents/K2%20-%20Introduction.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K2%20-%20Introduction.pdf) |
 | R1 | Report from *Qianru Nan* (Desensitized)<br>报告 – 南芊如 (经脱敏的演示文稿) | [Open / 打开](Documents/R1%20-%20Qianru%20Nan.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R1%20-%20Qianru%20Nan.pdf) |
 | R2 | Report from *Zichao Chen* (Desensitized)<br>报告 – 陈梓超 (经脱敏的演示文稿) | [Open / 打开](Documents/R2%20-%20Zichao%20Chen.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R2%20-%20Zichao%20Chen.pdf) |
+| K3 | Research Paper & Fields<br>研究文章及领域 (演示文稿) | [Open / 打开](Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
 请留意由于网页浏览器渲染引擎不尽相同，文件查看器可能无法正确载入文件。此时请下载相应文件以供查阅。
 ## ✏️&nbsp;&nbsp;&nbsp;Assignments&nbsp;&nbsp;作业
-| Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 | Grade Distribution<br>成绩分布 |
-| - | - | - | - | - | - |
-| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) | [Open / 打开](Documents/G1%20-%20Grade%20Distribution%20Chart.pdf) |
+| Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 |
+| - | - | - | - | - |
+| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
+| A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/p9snMRjG/Q0SmMa7YOpVuXw) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
@@ -37,3 +39,6 @@ Please note that due to different web browser rendering engines, the file viewer
 - [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
 - [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
 - [Learn Git Branching / 学习 Git 分支技术](https://learngitbranching.js.org/?locale=zh_CN)
+- [Citation Styles / 论文参考格式 (仅有英文)](https://pitt.libguides.com/citationhelp)
+- [Citation Styles / 论文参考格式 (仅有英文)](https://pitt.libguides.com/citationhelp)
+- [GB–T 7714 / 文后参考文献著录规则 (仅有中文)](https://jsjyxy.wzu.edu.cn/__local/2/A9/A7/883072A9FE29CC97386604E7682_674D278A_5C812.pdf?e=.pdf)
