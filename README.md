@@ -40,5 +40,4 @@ Please note that due to different web browser rendering engines, the file viewer
 - [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
 - [Learn Git Branching / 学习 Git 分支技术](https://learngitbranching.js.org/?locale=zh_CN)
 - [Citation Styles / 论文参考格式 (仅有英文)](https://pitt.libguides.com/citationhelp)
-- [Citation Styles / 论文参考格式 (仅有英文)](https://pitt.libguides.com/citationhelp)
 - [GB–T 7714 / 文后参考文献著录规则 (仅有中文)](https://jsjyxy.wzu.edu.cn/__local/2/A9/A7/883072A9FE29CC97386604E7682_674D278A_5C812.pdf?e=.pdf)
