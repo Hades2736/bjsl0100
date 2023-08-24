@@ -28,7 +28,7 @@ Please note that due to different web browser rendering engines, the file viewer
 ## ✏️&nbsp;&nbsp;&nbsp;Assignments&nbsp;&nbsp;作业
 | Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 | Grade Distribution<br>成绩分布 |
 | - | - | - | - | - | - |
-| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/LIElckVI/RvS3X0RmL82Z9A) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) | Not published / 暂未公布 |
+| A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) | [Open / 打开](Documents/G1%20-%20Grade%20Distribution%20Chart.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
