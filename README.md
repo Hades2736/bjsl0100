@@ -30,7 +30,7 @@ Please note that due to different web browser rendering engines, the file viewer
 | Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 |
 | - | - | - | - | - |
 | A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
-| A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/p9snMRjG/Q0SmMa7YOpVuXw) | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
+| A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/p9snMRjG/Q0SmMa7YOpVuXw) | Not available / 未有提供 |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
