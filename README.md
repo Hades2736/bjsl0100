@@ -22,6 +22,8 @@ In this course, you will learn various methods of reading professional literatur
 | R1 | Report from *Qianru Nan* (Desensitized)<br>报告 – 南芊如 (经脱敏的演示文稿) | [Open / 打开](Documents/R1%20-%20Qianru%20Nan.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R1%20-%20Qianru%20Nan.pdf) |
 | R2 | Report from *Zichao Chen* (Desensitized)<br>报告 – 陈梓超 (经脱敏的演示文稿) | [Open / 打开](Documents/R2%20-%20Zichao%20Chen.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/R2%20-%20Zichao%20Chen.pdf) |
 | K3 | Research Paper & Fields<br>研究文章及领域 (演示文稿) | [Open / 打开](Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) |
+| P1 | Paper Sample<br>论文样本 (仅有英文) | [Open / 打开](Documents/P1%20-%20Exploring%20Intention%20Communication%20for%20Multi-User%20Locomotion%20in%20Virtual%20Reality.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/P1%20-%20Exploring%20Intention%20Communication%20for%20Multi-User%20Locomotion%20in%20Virtual%20Reality.pdf) |
+| K4 | Read Paper<br>阅读论文 (演示文稿) | [Open / 打开](Documents/K4%20-%20Read%20Paper.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K4%20-%20Read%20Paper.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
@@ -30,7 +32,8 @@ Please note that due to different web browser rendering engines, the file viewer
 | Index<br>索引 | Topic<br>主题 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 | References<br>参考资料 |
 | - | - | - | - | - |
 | A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
-| A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/p9snMRjG/Q0SmMa7YOpVuXw) | Not available / 未有提供 |
+| A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
+| A3 | Read Paper<br>阅读论文 | 2023-08-31 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/DtNcXZLc/SNONBZFSiCSzIA) | Not available / 未有提供 |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
