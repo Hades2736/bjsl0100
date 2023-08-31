@@ -45,7 +45,7 @@ Please note that due to different web browser rendering engines, the file viewer
 ## 🎙️&nbsp;&nbsp;&nbsp;Class Report&nbsp;&nbsp;课程报告
 | Item<br>项目 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 |
 | - | - | - |
-| Grouping Advice<br>分组登记表 | Not applicable / 不适用 | Refer to notice / 参考通知 |
+| Grouping Registry<br>分组登记表 | Not applicable / 不适用 | Refer to notice / 参考通知 |
 | Presentation Document<br>演示文稿 | 2023-09-11 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/Vwr9gb8q/SyGSss0mu2nRDA) |
 ## 🔗&nbsp;&nbsp;&nbsp;Resources&nbsp;&nbsp;资源
 - [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
