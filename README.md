@@ -24,6 +24,9 @@ In this course, you will learn various methods of reading professional literatur
 | K3 | Research Paper & Fields<br>研究文章及领域 (演示文稿) | [Open / 打开](Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K3%20-%20Research%20Paper%20&%20Fields.pdf) |
 | P1 | Paper Sample<br>论文样本 (仅有英文) | [Open / 打开](Documents/P1%20-%20Exploring%20Intention%20Communication%20for%20Multi-User%20Locomotion%20in%20Virtual%20Reality.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/P1%20-%20Exploring%20Intention%20Communication%20for%20Multi-User%20Locomotion%20in%20Virtual%20Reality.pdf) |
 | K4 | Read Paper<br>阅读论文 (演示文稿) | [Open / 打开](Documents/K4%20-%20Read%20Paper.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K4%20-%20Read%20Paper.pdf) |
+| K5 | Literature Survey<br>领域调研 (演示文稿) | [Open / 打开](Documents/K5%20-%20Literature%20Survey.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K5%20-%20Literature%20Survey.pdf) |
+| K6 | How to use LaTeX?<br>如何使用 LaTeX？(演示文稿) | [Open / 打开](Documents/K6%20-%20How%20to%20use%20LaTeX%3F.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K6%20-%20How%20to%20use%20LaTeX%3F.pdf) |
+| K7 | Class Report<br>课程报告 (演示文稿) | [Open / 打开](Documents/K7%20-%20Class%20Report.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K7%20-%20Class%20Report.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
@@ -33,11 +36,17 @@ Please note that due to different web browser rendering engines, the file viewer
 | - | - | - | - | - |
 | A1 | Reading Review<br>读后感 | 2023-08-24 09:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](Documents/A1%20-%20You%20and%20Your%20Research.pdf) |
 | A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
-| A3 | Read Paper<br>阅读论文 | 2023-08-31 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/DtNcXZLc/SNONBZFSiCSzIA) | Not available / 未有提供 |
+| A3 | Read Paper<br>阅读论文 | 2023-08-31 09:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
+| A4 | An LaTeX Report<br>LaTeX 报告 | 2023-09-04 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/-PVcVXDw/RGO0QULQnvZAdQ) | [Open / 打开](https://www.overleaf.com/read/mpkwcxkyzjkn) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
 请留意由于网页浏览器渲染引擎不尽相同，文件查看器可能无法正确载入文件。此时请下载相应文件以供查阅。
+## 🎙️&nbsp;&nbsp;&nbsp;Class Report&nbsp;&nbsp;课程报告
+| Item<br>项目 | Deadline<br>提交截止时间 | Submission Form<br>提交表格 |
+| - | - | - |
+| Grouping Advice<br>分组登记表 | Not applicable / 不适用 | Refer to notice / 参考通知 |
+| Presentation Document<br>演示文稿 | 2023-09-11 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/Vwr9gb8q/SyGSss0mu2nRDA) |
 ## 🔗&nbsp;&nbsp;&nbsp;Resources&nbsp;&nbsp;资源
 - [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
 - [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
