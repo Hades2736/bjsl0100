@@ -28,6 +28,7 @@ In this course, you will learn various methods of reading professional literatur
 | K6 | How to use LaTeX?<br>如何使用 LaTeX？(演示文稿) | [Open / 打开](Documents/K6%20-%20How%20to%20use%20LaTeX%3F.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K6%20-%20How%20to%20use%20LaTeX%3F.pdf) |
 | K7 | Class Report<br>课程报告 (演示文稿) | [Open / 打开](Documents/K7%20-%20Class%20Report.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K7%20-%20Class%20Report.pdf) |
 | K8 | Present a Paper or Project<br>论文或项目汇报 (演示文稿) | [Open / 打开](Documents/K8%20-%20Present%20a%20Paper%20or%20Project.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K8%20-%20Present%20a%20Paper%20or%20Project.pdf) |
+| K9 | How to write theses?<br>如何撰写论文？(演示文稿) | [Open / 打开](Documents/K9%20-%20How%20to%20write%20theses%3F.pdf) | [Download / 下载](https://raw.githubusercontent.com/Hades2736/bjsl0100/main/Documents/K9%20-%20How%20to%20write%20theses%3F.pdf) |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
@@ -39,7 +40,7 @@ Please note that due to different web browser rendering engines, the file viewer
 | A2 | Search Paper<br>搜索论文 | 2023-08-28 21:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
 | A3 | Read Paper<br>阅读论文 | 2023-08-31 09:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
 | A4 | An LaTeX Report<br>LaTeX 报告 | 2023-09-04 21:30 中国标准时间 | Expired / 已逾提交期限 | [Open / 打开](https://www.overleaf.com/read/mpkwcxkyzjkn) |
-| A5 | A Brief Report (Optional)<br>简短报告（可选） | 2023-09-07 09:30 中国标准时间 | [Open / 打开](https://send2me.cn/D79G6HFS/SIOh-z1FUCYh_g) | Not available / 未有提供 |
+| A5 | A Brief Report (Optional)<br>简短报告（可选） | 2023-09-07 09:30 中国标准时间 | Expired / 已逾提交期限 | Not available / 未有提供 |
 
 Please note that due to different web browser rendering engines, the file viewer may not be able to load the files correctly. If this happens, please download the corresponding file instead.
 
@@ -49,6 +50,7 @@ Please note that due to different web browser rendering engines, the file viewer
 | - | - | - |
 | Grouping Registry<br>分组登记表 | Not applicable / 不适用 | Refer to notice / 参考通知 |
 | Presentation Document<br>演示文稿 | 2023-09-11 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/Vwr9gb8q/SyGSss0mu2nRDA) |
+| LaTeX Report Document<br>LaTeX 报告 | 2023-09-17 21:30 中国标准时间 | [Open / 打开](https://send2me.cn/CHN3voBh/QuGvJEtEm4reuw) |
 ## 🔗&nbsp;&nbsp;&nbsp;Resources&nbsp;&nbsp;资源
 - [An introduction to LaTeX / LaTeX 概要 (仅有英文)](https://www.latex-project.org/about/)
 - [Git Tutorial / Git 教程 (仅有英文)](https://www.javatpoint.com/git)
